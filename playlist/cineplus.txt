@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnbrasil.png" group-title="Notícias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cnnbrasil.png" group-title="Notícias", CNN Brasil Link 2
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w345100569.m3u8
+
 #EXTINF:-1 tvg-id="BandNewsTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandNewsTV2024.svg/250px-BandNewsTV2024.svg.png" group-title="Notícias", BandNews TV
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/162309.m3u8
 
