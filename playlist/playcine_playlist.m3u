@@ -174,7 +174,7 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_NEWS.png" group-title="PlayCine", GLOBO NEWS
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO S O PAULO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_S_O_PAULO.png" group-title="PlayCine", GLOBO S O PAULO
+#EXTINF:-1 tvg-id="GLOBO RR" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_S_O_PAULO.png" group-title="PlayCine", GLOBO RR
 https://live-01.edge-4wn-bvb-rr.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS00d24tYnZiLXJyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1MTA0NTA1OSwiaWF0IjoxNzUwOTU4NjU5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdiMGIzMDVjLTQ2YjctNDVkYi1hMjllLWQ5MGZjYTkzNTkxZSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcm9yL3BsYXlsaXN0Lm0zdTgifQ.YmW4huyBdeOUUm_R_5Sd_-Df1rQlRZir0uI6N6kwe6IVc7-OPe1-uCagZ9UW3QN1a7EKBrqkZHQbd1D9-IlTt5IPk99AfoCKBl5EEoYR5ULbAQQiBXc7HtYCjMpc2vLX7P4eelZX2lm8VVHfOpMnrBf2XZ7S6OysIDILD64noqL-RNEQJz3Jv0eL37DjXmoGE6OCVsmkGai0SEoAH82e_IYZS_V8mdPl62pqBv0g3HobiHeOFjcWdm_1BUMv6gklg_nA1GOj_-uIVNK4fhPllNxNpxtJdqVjSU-LWUReZnxv3JH5YUp0pUAn2ZfUjkALVXcJSG0hMCxlWtHy52EwGg/live/f(i=2)/globo-ror/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOOBINHO HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOOBINHO_HD.png" group-title="PlayCine", GLOOBINHO HD
