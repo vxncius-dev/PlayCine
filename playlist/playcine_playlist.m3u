@@ -1,0 +1,495 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AGROMAIS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/AGROMAIS.png" group-title="PlayCine", AGROMAIS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/AMC_HD.png" group-title="PlayCine", AMC HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ANIMAL_PLANET_HD.png" group-title="PlayCine", ANIMAL PLANET HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ARTE 1 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ARTE_1_HD.png" group-title="PlayCine", ARTE 1 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/AXN.png" group-title="PlayCine", AXN
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="A E" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/A_E.png" group-title="PlayCine", A E
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Adult Swim HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Adult_Swim_HD.png" group-title="PlayCine", Adult Swim HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_HD.png" group-title="PlayCine", BAND HD
+https://www.dailymotion.com/cdn/live/video/x8nkbc2.m3u8?sec=aDU_fTigQqsIQxpoyAkEHF6o_MEm2UMpFfbJlhFuneycAKpLt24k6doJ1IJxx6nikuSKaLNk3h8x7xrTibWYpYEvHkqepW6U8f8CKGot0Fw
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_NEWS.png" group-title="PlayCine", BAND NEWS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_SPORTS_HD.png" group-title="PlayCine", BAND SPORTS HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BBC WORLD NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BBC_WORLD_NEWS.png" group-title="PlayCine", BBC WORLD NEWS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BIS HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BIS_HD.png" group-title="PlayCine", BIS HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BLOOMBERG_TV.png" group-title="PlayCine", BLOOMBERG TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="BM C HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BM_C_HD.png" group-title="PlayCine", BM C HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="C3 TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/C3_TV.png" group-title="PlayCine", C3 TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CANAL BRASIL HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CANAL_BRASIL_HD.png" group-title="PlayCine", CANAL BRASIL HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CANAL_DO_BOI.png" group-title="PlayCine", CANAL DO BOI
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CANAL_RURAL.png" group-title="PlayCine", CANAL RURAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CANAL UOL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CANAL_UOL.png" group-title="PlayCine", CANAL UOL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CAN O NOVA HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CAN__O_NOVA_HD.png" group-title="PlayCine", CAN O NOVA HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOONITO.png" group-title="PlayCine", CARTOONITO
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CARTOON HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOON_HD.png" group-title="PlayCine", CARTOON HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CBI" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CBI.png" group-title="PlayCine", CBI
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CGTN.png" group-title="PlayCine", CGTN
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CINEMAX_HD.png" group-title="PlayCine", CINEMAX HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CNN_BRASIL.png" group-title="PlayCine", CNN BRASIL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CNN Brasil Money HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CNN_Brasil_Money_HD.png" group-title="PlayCine", CNN Brasil Money HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CNN INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CNN_INTERNATIONAL.png" group-title="PlayCine", CNN INTERNATIONAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMBATE_HD.png" group-title="PlayCine", COMBATE HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMEDY_CENTRAL.png" group-title="PlayCine", COMEDY CENTRAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CULTURA_HD.png" group-title="PlayCine", CULTURA HD
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="CURTA" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CURTA.png" group-title="PlayCine", CURTA
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HD.png" group-title="PlayCine", DISCOVERY HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME HEALTH HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HOME_HEALTH_HD.png" group-title="PlayCine", DISCOVERY HOME HEALTH HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_KIDS_HD.png" group-title="PlayCine", DISCOVERY KIDS HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_SCIENCE_HD.png" group-title="PlayCine", DISCOVERY SCIENCE HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_THEATER_HD.png" group-title="PlayCine", DISCOVERY THEATER HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_TURBO_HD.png" group-title="PlayCine", DISCOVERY TURBO HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_WORLD_HD.png" group-title="PlayCine", DISCOVERY WORLD HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DOG TV HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DOG_TV_HD.png" group-title="PlayCine", DOG TV HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DW TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DW_TV.png" group-title="PlayCine", DW TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="DumDum" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DumDum.png" group-title="PlayCine", DumDum
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="E" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/E.png" group-title="PlayCine", E
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN.png" group-title="PlayCine", ESPN
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_2.png" group-title="PlayCine", ESPN 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_3.png" group-title="PlayCine", ESPN 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_4.png" group-title="PlayCine", ESPN 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_5.png" group-title="PlayCine", ESPN 5
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_6.png" group-title="PlayCine", ESPN 6
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="EUROCHANNEL HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/EUROCHANNEL_HD.png" group-title="PlayCine", EUROCHANNEL HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FASHION TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FASHION_TV.png" group-title="PlayCine", FASHION TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FILM  ARTS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FILM___ARTS.png" group-title="PlayCine", FILM  ARTS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FISH TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FISH_TV.png" group-title="PlayCine", FISH TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FOOD_NETWORK_HD.png" group-title="PlayCine", FOOD NETWORK HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FRANCE 24 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FRANCE_24_HD.png" group-title="PlayCine", FRANCE 24 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="FUTURA HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/FUTURA_HD.png" group-title="PlayCine", FUTURA HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="GAZETA" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GAZETA.png" group-title="PlayCine", GAZETA
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_NEWS.png" group-title="PlayCine", GLOBO NEWS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO S O PAULO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_S_O_PAULO.png" group-title="PlayCine", GLOBO S O PAULO
+https://live-01.edge-4wn-bvb-rr.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS00d24tYnZiLXJyLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc1MTA0NTA1OSwiaWF0IjoxNzUwOTU4NjU5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjdiMGIzMDVjLTQ2YjctNDVkYi1hMjllLWQ5MGZjYTkzNTkxZSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcm9yL3BsYXlsaXN0Lm0zdTgifQ.YmW4huyBdeOUUm_R_5Sd_-Df1rQlRZir0uI6N6kwe6IVc7-OPe1-uCagZ9UW3QN1a7EKBrqkZHQbd1D9-IlTt5IPk99AfoCKBl5EEoYR5ULbAQQiBXc7HtYCjMpc2vLX7P4eelZX2lm8VVHfOpMnrBf2XZ7S6OysIDILD64noqL-RNEQJz3Jv0eL37DjXmoGE6OCVsmkGai0SEoAH82e_IYZS_V8mdPl62pqBv0g3HobiHeOFjcWdm_1BUMv6gklg_nA1GOj_-uIVNK4fhPllNxNpxtJdqVjSU-LWUReZnxv3JH5YUp0pUAn2ZfUjkALVXcJSG0hMCxlWtHy52EwGg/live/f(i=2)/globo-ror/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOOBINHO HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOOBINHO_HD.png" group-title="PlayCine", GLOOBINHO HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="GLOOB HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOOB_HD.png" group-title="PlayCine", GLOOB HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="GNT HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GNT_HD.png" group-title="PlayCine", GNT HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Globoplay Novelas" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Globoplay_Novelas.png" group-title="PlayCine", Globoplay Novelas
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO.png" group-title="PlayCine", HBO
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO2.png" group-title="PlayCine", HBO2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_.png" group-title="PlayCine", HBO 
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Family.png" group-title="PlayCine", HBO Family
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Mundi.png" group-title="PlayCine", HBO Mundi
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO Pop" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Pop.png" group-title="PlayCine", HBO Pop
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Signature.png" group-title="PlayCine", HBO Signature
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Xtreme.png" group-title="PlayCine", HBO Xtreme
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HGTV HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HGTV_HD.png" group-title="PlayCine", HGTV HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY.png" group-title="PlayCine", HISTORY
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY2.png" group-title="PlayCine", HISTORY2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="ID HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ID_HD.png" group-title="PlayCine", ID HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="JOVEM PAN NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/JOVEM_PAN_NEWS.png" group-title="PlayCine", JOVEM PAN NEWS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="LBV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/LBV.png" group-title="PlayCine", LBV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/LIFETIME.png" group-title="PlayCine", LIFETIME
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="LIKE" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/LIKE.png" group-title="PlayCine", LIKE
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="LMC HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/LMC_HD.png" group-title="PlayCine", LMC HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MEGAPIX_HD.png" group-title="PlayCine", MEGAPIX HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MEZZO HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MEZZO_HD.png" group-title="PlayCine", MEZZO HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MTV_HD.png" group-title="PlayCine", MTV HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MTV_LIVE.png" group-title="PlayCine", MTV LIVE
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MTVs 00" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MTVs_00.png" group-title="PlayCine", MTVs 00
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MULTISHOW_HD.png" group-title="PlayCine", MULTISHOW HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="MUSIC BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MUSIC_BOX_BRAZIL.png" group-title="PlayCine", MUSIC BOX BRAZIL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Modo Viagem" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Modo_Viagem.png" group-title="PlayCine", Modo Viagem
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICKELODEON_HD.png" group-title="PlayCine", NICKELODEON HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICK_JR.png" group-title="PlayCine", NICK JR
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NOSSO_FUTEBOL_HD.png" group-title="PlayCine", NOSSO FUTEBOL HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL  1" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NOSSO_FUTEBOL___1.png" group-title="PlayCine", NOSSO FUTEBOL  1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL  2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NOSSO_FUTEBOL___2.png" group-title="PlayCine", NOSSO FUTEBOL  2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="NOSSO FUTEBOL  3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NOSSO_FUTEBOL___3.png" group-title="PlayCine", NOSSO FUTEBOL  3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Nsports_HD.png" group-title="PlayCine", Nsports HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/OFF_HD.png" group-title="PlayCine", OFF HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PARAMOUNT_NETWORK.png" group-title="PlayCine", PARAMOUNT NETWORK
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PLAY_TV.png" group-title="PlayCine", PLAY TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE2_HD.png" group-title="PlayCine", PREMIERE2 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE3_HD.png" group-title="PlayCine", PREMIERE3 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE4 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE4_HD.png" group-title="PlayCine", PREMIERE4 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE5 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE5_HD.png" group-title="PlayCine", PREMIERE5 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE6_HD.png" group-title="PlayCine", PREMIERE6 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE7_HD.png" group-title="PlayCine", PREMIERE7 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE8_HD.png" group-title="PlayCine", PREMIERE8 HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE_CLUBES_HD.png" group-title="PlayCine", PREMIERE CLUBES HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="PRIME BOX BRAZIL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PRIME_BOX_BRAZIL.png" group-title="PlayCine", PRIME BOX BRAZIL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Paramount 1" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Paramount__1.png" group-title="PlayCine", Paramount 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Paramount 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Paramount__2.png" group-title="PlayCine", Paramount 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Paramount 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Paramount__3.png" group-title="PlayCine", Paramount 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Paramount 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Paramount__4.png" group-title="PlayCine", Paramount 4
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="RAI INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RAI_INTERNATIONAL.png" group-title="PlayCine", RAI INTERNATIONAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="RECORD HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_HD.png" group-title="PlayCine", RECORD HD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_NEWS.png" group-title="PlayCine", RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+
+#EXTINF:-1 tvg-id="REDE GOSPEL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/REDE_GOSPEL.png" group-title="PlayCine", REDE GOSPEL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/REDE_TV.png" group-title="PlayCine", REDE TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/REDE_VIDA.png" group-title="PlayCine", REDE VIDA
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SBT.png" group-title="PlayCine", SBT
+https://01-mcteteu.shop/secret_key/c437aab6928888b3e2e5bf36890f6150.m3u8
+
+#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SIC_INTERNACIONAL.png" group-title="PlayCine", SIC INTERNACIONAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SONY_CHANNEL.png" group-title="PlayCine", SONY CHANNEL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPACE_HD.png" group-title="PlayCine", SPACE HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV.png" group-title="PlayCine", SPORTV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_2.png" group-title="PlayCine", SPORTV 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_3.png" group-title="PlayCine", SPORTV 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV ACESSIVEL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_ACESSIVEL.png" group-title="PlayCine", SPORTV ACESSIVEL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/STUDIO_UNIVERSAL_HD.png" group-title="PlayCine", STUDIO UNIVERSAL HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Sabor  Arte" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Sabor___Arte.png" group-title="PlayCine", Sabor  Arte
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TCM BR" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TCM_BR.png" group-title="PlayCine", TCM BR
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_ACTION.png" group-title="PlayCine", TELECINE ACTION
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_CULT.png" group-title="PlayCine", TELECINE CULT
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_FUN.png" group-title="PlayCine", TELECINE FUN
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PIPOCA.png" group-title="PlayCine", TELECINE PIPOCA
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PREMIUM.png" group-title="PlayCine", TELECINE PREMIUM
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_TOUCH.png" group-title="PlayCine", TELECINE TOUCH
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TIMES  Exclusivo CNBC" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TIMES___Exclusivo_CNBC.png" group-title="PlayCine", TIMES  Exclusivo CNBC
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TLC HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TLC_HD.png" group-title="PlayCine", TLC HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_HD.png" group-title="PlayCine", TNT HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_NOVELAS.png" group-title="PlayCine", TNT NOVELAS
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_SERIES_HD.png" group-title="PlayCine", TNT SERIES HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TRACE BRASIL HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TRACE_BRASIL_HD.png" group-title="PlayCine", TRACE BRASIL HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TRAVEL BOX" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TRAVEL_BOX.png" group-title="PlayCine", TRAVEL BOX
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TRIP BRASIL CHANNEL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TRIP_BRASIL_CHANNEL.png" group-title="PlayCine", TRIP BRASIL CHANNEL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TV5 MONDE" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TV5_MONDE.png" group-title="PlayCine", TV5 MONDE
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TVE INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TVE_INTERNATIONAL.png" group-title="PlayCine", TVE INTERNATIONAL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TV_APARECIDA_HD.png" group-title="PlayCine", TV APARECIDA HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TV_BRASIL.png" group-title="PlayCine", TV BRASIL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TV_RA_TIM_BUM.png" group-title="PlayCine", TV RA TIM BUM
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/UNIVERSAL_PREMIERE_HD.png" group-title="PlayCine", UNIVERSAL PREMIERE HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/UNIVERSAL_REALITY.png" group-title="PlayCine", UNIVERSAL REALITY
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/UNIVERSAL_TV_HD.png" group-title="PlayCine", UNIVERSAL TV HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="USA HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/USA_HD.png" group-title="PlayCine", USA HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/WARNER_CHANNEL.png" group-title="PlayCine", WARNER CHANNEL
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="WOOHOO HD" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/WOOHOO_HD.png" group-title="PlayCine", WOOHOO HD
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Desenhos", South Park
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung-tvplus&deviceType=samsung-tvplus&deviceVersion=unknown
+
+######### canais da PlutoTV #########
+
+#EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema",Cine Clássicos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema",Cine Comédia | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema",Cine Comédia Romântica | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Brasil: cinema",Cine Crime | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema",Cine Drama | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema",Cine Família | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Brasil: cinema",Cine Inspiração | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema",Cine Romance | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema",Cine Sucessos | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema",Cine Terror | Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
