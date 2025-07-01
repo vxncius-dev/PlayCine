@@ -1,265 +1,235 @@
 #EXTM3U
 
 ######### Aberto #########
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_HD.png" group-title="Aberto", Band
-https://01-mcteteu.shop/secret_key/a5d79b32f55ce0210cc71d00505dae07.m3u8
-#EXTINF:-1 tvg-id="Record" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_HD.png" group-title="Aberto", Record
-https://01-mcteteu.shop/secret_key/5309b22359c0e38cdacb615e7ababa00.m3u8
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_NEWS.png" group-title="Aberto", Record News
-https://01-mcteteu.shop/secret_key/286a313d172045ab7bea1e13c30c2436.m3u8
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/REDE_TV.png" group-title="Aberto", RedeTV!
-https://01-mcteteu.shop/secret_key/4fd59961c1cfb379141d16b6f64c55b4.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SBT.png" group-title="Aberto", SBT
-https://01-mcteteu.shop/secret_key/bc632836e5020e5273e8321935029a9a.m3u8
-#EXTINF:-1 tvg-id="Sony Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SONY_CHANNEL.png" group-title="Aberto", Sony Channel
-https://01-mcteteu.shop/secret_key/645aee575480d253b287272f585a21ba.m3u8
-#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CULTURA_HD.png" group-title="Aberto", TV Cultura
-https://01-mcteteu.shop/secret_key/c36ce3a651c3890185c678860f8c232c.m3u8
+#EXTINF:-1 tvg-iid="Band" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_HD.png" group-title="Aberto", Band
+https://01-mcteteu.shop/secret_key/2171f4f06869702a229f54f4a7cdb5ec.m3u8
+#EXTINF:-1 tvg-iid="Globo S O Paulo" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_S_O_PAULO.png" group-title="Aberto", Globo S O Paulo
+https://01-mcteteu.shop/secret_key/4013f9de6ba1965d9af77d95a92288e9.m3u8
+#EXTINF:-1 tvg-iid="Record" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_HD.png" group-title="Aberto", Record
+https://01-mcteteu.shop/secret_key/6d8a972d96c1a3c114c727424c246b50.m3u8
+#EXTINF:-1 tvg-iid="Record News" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/RECORD_NEWS.png" group-title="Aberto", Record News
+https://01-mcteteu.shop/secret_key/3336d57bc0a25f0f67cb390398e315ea.m3u8
+#EXTINF:-1 tvg-iid="RedeTV!" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/REDE_TV.png" group-title="Aberto", RedeTV!
+https://01-mcteteu.shop/secret_key/2d800e0663778fdf52e727247268f8a7.m3u8
+#EXTINF:-1 tvg-iid="SBT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SBT.png" group-title="Aberto", SBT
+https://01-mcteteu.shop/secret_key/9a3bec002683efde0551475a646aab8d.m3u8
+#EXTINF:-1 tvg-iid="Sony Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SONY_CHANNEL.png" group-title="Aberto", Sony Channel
+https://01-mcteteu.shop/secret_key/a69f4dfa75db865e020ae66c3ff06ee3.m3u8
+#EXTINF:-1 tvg-iid="TV Cultura" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CULTURA_HD.png" group-title="Aberto", TV Cultura
+https://01-mcteteu.shop/secret_key/76e97db423091954291b7dd43458b148.m3u8
 
 ######### Documentários #########
-#EXTINF:-1 tvg-id="A&E" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/A_E.png" group-title="Documentários", A&E
-https://01-mcteteu.shop/secret_key/c6755ab62dd1f7fb52296a40c7a04ccd.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ANIMAL_PLANET_HD.png" group-title="Documentários", Animal Planet
-https://01-mcteteu.shop/secret_key/fc3b458b21136869dc69888532c34f69.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HD.png" group-title="Documentários", Discovery Channel
-https://01-mcteteu.shop/secret_key/e0536e76753601876ffdd388955a02ae.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HOME_HEALTH_HD.png" group-title="Documentários", Discovery Home & Health
-https://01-mcteteu.shop/secret_key/a1584018444f4298ce379424bde5ab28.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_SCIENCE_HD.png" group-title="Documentários", Discovery Science
-https://01-mcteteu.shop/secret_key/0182af991783d9655518a9c4fc6907fc.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_THEATER_HD.png" group-title="Documentários", Discovery Theater
-https://01-mcteteu.shop/secret_key/e5c5a5a5e37edaa3247ca2d9635621bb.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_TURBO_HD.png" group-title="Documentários", Discovery Turbo
-https://01-mcteteu.shop/secret_key/93098ebc19a8a6eb45eabdd7ae2567d2.m3u8
-#EXTINF:-1 tvg-id="Discovery World" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_WORLD_HD.png" group-title="Documentários", Discovery World
-https://01-mcteteu.shop/secret_key/54be05a240bbe8c70be7a5bfad2d4612.m3u8
-#EXTINF:-1 tvg-id="History" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY.png" group-title="Documentários", History
-https://01-mcteteu.shop/secret_key/ca6a16120b0e6d15a0679ae9deb4b320.m3u8
-#EXTINF:-1 tvg-id="History 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY2.png" group-title="Documentários", History 2
-https://01-mcteteu.shop/secret_key/ca0e00284a8d2bf7f9b0cdf5e5c0db46.m3u8
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ID_HD.png" group-title="Documentários", ID
-https://01-mcteteu.shop/secret_key/d959de5e8ac1e8b419a36924e9129aa5.m3u8
+#EXTINF:-1 tvg-iid="A&E" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/A_E.png" group-title="Documentários", A&E
+https://01-mcteteu.shop/secret_key/7ce736c94ebd87c5238aeda94b48e6b6.m3u8
+#EXTINF:-1 tvg-iid="Animal Planet" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ANIMAL_PLANET_HD.png" group-title="Documentários", Animal Planet
+https://01-mcteteu.shop/secret_key/c55b408f1249817a040146b67da0e39a.m3u8
+#EXTINF:-1 tvg-iid="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HD.png" group-title="Documentários", Discovery Channel
+https://01-mcteteu.shop/secret_key/519e6ae294a11a611e2129688bacbedb.m3u8
+#EXTINF:-1 tvg-iid="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_HOME_HEALTH_HD.png" group-title="Documentários", Discovery Home & Health
+https://01-mcteteu.shop/secret_key/462d24e22e715497ab5b47535bddf4d9.m3u8
+#EXTINF:-1 tvg-iid="Discovery Science" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_SCIENCE_HD.png" group-title="Documentários", Discovery Science
+https://01-mcteteu.shop/secret_key/8ae391d90d62e7f91e393eb13b9a1c3f.m3u8
+#EXTINF:-1 tvg-iid="Discovery Theater" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_THEATER_HD.png" group-title="Documentários", Discovery Theater
+https://01-mcteteu.shop/secret_key/b2baaf642afa43f647707dc7da22e6e2.m3u8
+#EXTINF:-1 tvg-iid="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_TURBO_HD.png" group-title="Documentários", Discovery Turbo
+https://01-mcteteu.shop/secret_key/bfcdebccce9927e9d751af5b03afa3cb.m3u8
+#EXTINF:-1 tvg-iid="Discovery World" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_WORLD_HD.png" group-title="Documentários", Discovery World
+https://01-mcteteu.shop/secret_key/600e16f3d94b9e5cfe82c9a00101ad7c.m3u8
+#EXTINF:-1 tvg-iid="History" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY.png" group-title="Documentários", History
+https://01-mcteteu.shop/secret_key/576a6fb4b7a4db0d9c4905f26f9159f9.m3u8
+#EXTINF:-1 tvg-iid="History 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HISTORY2.png" group-title="Documentários", History 2
+https://01-mcteteu.shop/secret_key/1d2a5f3970d38c99420af4dd7533bf40.m3u8
+#EXTINF:-1 tvg-iid="ID" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ID_HD.png" group-title="Documentários", ID
+https://01-mcteteu.shop/secret_key/d5858321a25437bfcf1d625ee6fd7330.m3u8
 
 ######### Esportes #########
-#EXTINF:-1 tvg-id="BandSports" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_SPORTS_HD.png" group-title="Esportes", BandSports
-https://01-mcteteu.shop/secret_key/22fc824e15a50b94eafdedb015205b9e.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMBATE_HD.png" group-title="Esportes", Combate
-https://01-mcteteu.shop/secret_key/dba91cd07365bc2cd61e77c33ab5be37.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN.png" group-title="Esportes", ESPN
-https://01-mcteteu.shop/secret_key/7fe70441883d2001778db194b11b0e68.m3u8
-#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_2.png" group-title="Esportes", ESPN 2
-https://01-mcteteu.shop/secret_key/ec5401a353b5072016b818609aa9a4ce.m3u8
-#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_3.png" group-title="Esportes", ESPN 3
-https://01-mcteteu.shop/secret_key/380eb0f95f0fd52870a8be388a7280d9.m3u8
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_4.png" group-title="Esportes", ESPN 4
-https://01-mcteteu.shop/secret_key/e47ab11babf7dfa63a0ae92ca19a4852.m3u8
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_5.png" group-title="Esportes", ESPN 5
-https://01-mcteteu.shop/secret_key/5ea65bc8622116c12389c6d81365644b.m3u8
-#EXTINF:-1 tvg-id="Premiere" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE_CLUBES_HD.png" group-title="Esportes", Premiere
-https://01-mcteteu.shop/secret_key/dadcc5bd6e07862383c77383af08c5cc.m3u8
-#EXTINF:-1 tvg-id="Premiere 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE2_HD.png" group-title="Esportes", Premiere 2
-https://01-mcteteu.shop/secret_key/04f5980045b447f942270a9fce4fd66a.m3u8
-#EXTINF:-1 tvg-id="Premiere 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE3_HD.png" group-title="Esportes", Premiere 3
-https://01-mcteteu.shop/secret_key/cb8b17c012fbb090628552abf7770082.m3u8
-#EXTINF:-1 tvg-id="Premiere 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE4_HD.png" group-title="Esportes", Premiere 4
-https://01-mcteteu.shop/secret_key/b0fd1592ceccf7c80840006c4f22f213.m3u8
-#EXTINF:-1 tvg-id="Premiere 5" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE5_HD.png" group-title="Esportes", Premiere 5
-https://01-mcteteu.shop/secret_key/1cb4c2abc39fb80d9e9ff76c29661df5.m3u8
-#EXTINF:-1 tvg-id="Premiere 6" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE6_HD.png" group-title="Esportes", Premiere 6
-https://01-mcteteu.shop/secret_key/52158a1afdc5983fe06865afae75719a.m3u8
-#EXTINF:-1 tvg-id="Premiere 7" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE7_HD.png" group-title="Esportes", Premiere 7
-https://01-mcteteu.shop/secret_key/e31218fa935074e0ba2cc6aa024cc7df.m3u8
-#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE8_HD.png" group-title="Esportes", Premiere 8
-https://01-mcteteu.shop/secret_key/7f28c6e084f11f85c4c6ed4b6d12d313.m3u8
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV.png" group-title="Esportes", SporTV
-https://01-mcteteu.shop/secret_key/f0d12c78eb9c4a41a269b1e63260729b.m3u8
-#EXTINF:-1 tvg-id="SporTV 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_2.png" group-title="Esportes", SporTV 2
-https://01-mcteteu.shop/secret_key/47cb3d345cdf74aca1530e125342fd4c.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_3.png" group-title="Esportes", SporTV 3
-https://01-mcteteu.shop/secret_key/17c178b70f1c3d0f7fa3be43f2554c38.m3u8
+#EXTINF:-1 tvg-iid="BandSports" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_SPORTS_HD.png" group-title="Esportes", BandSports
+https://01-mcteteu.shop/secret_key/e54ce0509f13a9aa6fb54f4dc7d32684.m3u8
+#EXTINF:-1 tvg-iid="Combate" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMBATE_HD.png" group-title="Esportes", Combate
+https://01-mcteteu.shop/secret_key/721424a76c6176536299a88c2ea5f9a4.m3u8
+#EXTINF:-1 tvg-iid="ESPN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN.png" group-title="Esportes", ESPN
+https://01-mcteteu.shop/secret_key/35a7edab5b51023a3eb371f36765c8a9.m3u8
+#EXTINF:-1 tvg-iid="ESPN 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_2.png" group-title="Esportes", ESPN 2
+https://01-mcteteu.shop/secret_key/d0e05798f2165b98229af1c6ece0c052.m3u8
+#EXTINF:-1 tvg-iid="ESPN 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_3.png" group-title="Esportes", ESPN 3
+https://01-mcteteu.shop/secret_key/28a708d5a674b26a7dee75d95d49393b.m3u8
+#EXTINF:-1 tvg-iid="ESPN 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_4.png" group-title="Esportes", ESPN 4
+https://01-mcteteu.shop/secret_key/4fadef35101979de03b8be08cb73dbc7.m3u8
+#EXTINF:-1 tvg-iid="ESPN 5" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/ESPN_5.png" group-title="Esportes", ESPN 5
+https://01-mcteteu.shop/secret_key/fab565c87ab14dfe9ed43deb69476b85.m3u8
+#EXTINF:-1 tvg-iid="Premiere" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE_CLUBES_HD.png" group-title="Esportes", Premiere
+https://01-mcteteu.shop/secret_key/8249fe77dd542c6e69c0a725fd82d8a5.m3u8
+#EXTINF:-1 tvg-iid="Premiere 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE2_HD.png" group-title="Esportes", Premiere 2
+https://01-mcteteu.shop/secret_key/fa8e8b7989d2043ae35de516377c30b7.m3u8
+#EXTINF:-1 tvg-iid="Premiere 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE3_HD.png" group-title="Esportes", Premiere 3
+https://01-mcteteu.shop/secret_key/26b792020a009816c512575deacee98c.m3u8
+#EXTINF:-1 tvg-iid="Premiere 4" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE4_HD.png" group-title="Esportes", Premiere 4
+https://01-mcteteu.shop/secret_key/264b18e64ee156ba34e19c82f8666c05.m3u8
+#EXTINF:-1 tvg-iid="Premiere 5" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE5_HD.png" group-title="Esportes", Premiere 5
+https://01-mcteteu.shop/secret_key/dbfdce014e747450c692777730306779.m3u8
+#EXTINF:-1 tvg-iid="Premiere 6" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE6_HD.png" group-title="Esportes", Premiere 6
+https://01-mcteteu.shop/secret_key/ad946a6cc2daa3af780f543f2f72f8ba.m3u8
+#EXTINF:-1 tvg-iid="Premiere 7" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE7_HD.png" group-title="Esportes", Premiere 7
+https://01-mcteteu.shop/secret_key/70d452eefeb3839d722c33193e686519.m3u8
+#EXTINF:-1 tvg-iid="Premiere 8" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/PREMIERE8_HD.png" group-title="Esportes", Premiere 8
+https://01-mcteteu.shop/secret_key/bff8f6a218f5b8133d9e7fdf3495d3c9.m3u8
+#EXTINF:-1 tvg-iid="SporTV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV.png" group-title="Esportes", SporTV
+https://01-mcteteu.shop/secret_key/b69158fb0fa155c4c02ea5f53cb5965d.m3u8
+#EXTINF:-1 tvg-iid="SporTV 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_2.png" group-title="Esportes", SporTV 2
+https://01-mcteteu.shop/secret_key/df366a903feb3fa64216618322f79d9c.m3u8
+#EXTINF:-1 tvg-iid="SporTV 3" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPORTV_3.png" group-title="Esportes", SporTV 3
+https://01-mcteteu.shop/secret_key/d9a64df2cab37b55e1a054d3c7a63eea.m3u8
 
 ######### Filmes #########
-#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CINEMAX_HD.png" group-title="Filmes", Cinemax
-https://01-mcteteu.shop/secret_key/54aae3fef728ec1588962779d81f5945.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO.png" group-title="Filmes", HBO
-https://01-mcteteu.shop/secret_key/47435295e998898cce61c0cbecdd89c9.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO2.png" group-title="Filmes", HBO 2
-https://01-mcteteu.shop/secret_key/e894a354b809bf2f27ddb5a229bea841.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Family.png" group-title="Filmes", HBO Family
-https://01-mcteteu.shop/secret_key/7a1485eafb203929690e20e05100c504.m3u8
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Xtreme.png" group-title="Filmes", HBO Xtreme
-https://01-mcteteu.shop/secret_key/9bdf82c437a2418e9866b4c6ef7a2f63.m3u8
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_.png" group-title="Filmes", HBO+
-https://01-mcteteu.shop/secret_key/5790075c5970da94ed93539ac6ad8fad.m3u8
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MEGAPIX_HD.png" group-title="Filmes", Megapix
-https://01-mcteteu.shop/secret_key/86cfa4cac929a983f6c8abb1a8f22c78.m3u8
-#EXTINF:-1 tvg-id="Space" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPACE_HD.png" group-title="Filmes", Space
-https://01-mcteteu.shop/secret_key/901cff2c301758228f0cccf6967c3dd6.m3u8
-#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/STUDIO_UNIVERSAL_HD.png" group-title="Filmes", Studio Universal
-https://01-mcteteu.shop/secret_key/82072acb45794486c5b893722f543c23.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TCM_BR.png" group-title="Filmes", TCM
-https://01-mcteteu.shop/secret_key/c0728736538eb6dc4f3dc3d76045e567.m3u8
-#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_ACTION.png" group-title="Filmes", Telecine Action
-https://01-mcteteu.shop/secret_key/831c06ee3f29afe90544d2497161e2c3.m3u8
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_CULT.png" group-title="Filmes", Telecine Cult
-https://01-mcteteu.shop/secret_key/c7b7cb9b3783017d3fe4f70ad755a0e6.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_FUN.png" group-title="Filmes", Telecine Fun
-https://01-mcteteu.shop/secret_key/a35bb9ca146539283806d8811dee6f3d.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PIPOCA.png" group-title="Filmes", Telecine Pipoca
-https://01-mcteteu.shop/secret_key/e461156f73e14c79e6d5346fc8fda04b.m3u8
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PREMIUM.png" group-title="Filmes", Telecine Premium
-https://01-mcteteu.shop/secret_key/b519d8ad0059cb0484ea3e45f76f6329.m3u8
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_TOUCH.png" group-title="Filmes", Telecine Touch
-https://01-mcteteu.shop/secret_key/80604c6b7f221e2289f4a99aef71371c.m3u8
+#EXTINF:-1 tvg-iid="Cinemax" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CINEMAX_HD.png" group-title="Filmes", Cinemax
+https://01-mcteteu.shop/secret_key/6feefebcc027b84e96737d6fb17b0413.m3u8
+#EXTINF:-1 tvg-iid="HBO" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO.png" group-title="Filmes", HBO
+https://01-mcteteu.shop/secret_key/53c629047e0d92dffa2f60335fd94ce4.m3u8
+#EXTINF:-1 tvg-iid="HBO 2" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO2.png" group-title="Filmes", HBO 2
+https://01-mcteteu.shop/secret_key/31d4ed1cb2e39ade26c32c2c2bcd1b3e.m3u8
+#EXTINF:-1 tvg-iid="HBO Family" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Family.png" group-title="Filmes", HBO Family
+https://01-mcteteu.shop/secret_key/f5173d340771abac3508def7c27bfc4a.m3u8
+#EXTINF:-1 tvg-iid="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_Xtreme.png" group-title="Filmes", HBO Xtreme
+https://01-mcteteu.shop/secret_key/c0e34a637afdc9f7103bdd921e74df66.m3u8
+#EXTINF:-1 tvg-iid="HBO+" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/HBO_.png" group-title="Filmes", HBO+
+https://01-mcteteu.shop/secret_key/186748087d45763c8075e3002675d68e.m3u8
+#EXTINF:-1 tvg-iid="Megapix" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MEGAPIX_HD.png" group-title="Filmes", Megapix
+https://01-mcteteu.shop/secret_key/9859ef511c3e35f47c3f382a37642b91.m3u8
+#EXTINF:-1 tvg-iid="Space" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/SPACE_HD.png" group-title="Filmes", Space
+https://01-mcteteu.shop/secret_key/83bf0dcc924a7fa503a8cce83cd34b63.m3u8
+#EXTINF:-1 tvg-iid="Studio Universal" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/STUDIO_UNIVERSAL_HD.png" group-title="Filmes", Studio Universal
+https://01-mcteteu.shop/secret_key/8db77ed7e2779a90f046c79a65a7d581.m3u8
+#EXTINF:-1 tvg-iid="TCM" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TCM_BR.png" group-title="Filmes", TCM
+https://01-mcteteu.shop/secret_key/437a1d809eb1c7a2e3b5d8aa6d45631d.m3u8
+#EXTINF:-1 tvg-iid="Telecine Action" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_ACTION.png" group-title="Filmes", Telecine Action
+https://01-mcteteu.shop/secret_key/65e112ec07f6934249caed3ad8fdc7aa.m3u8
+#EXTINF:-1 tvg-iid="Telecine Cult" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_CULT.png" group-title="Filmes", Telecine Cult
+https://01-mcteteu.shop/secret_key/69342fe798fec1b0631c07381e815498.m3u8
+#EXTINF:-1 tvg-iid="Telecine Fun" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_FUN.png" group-title="Filmes", Telecine Fun
+https://01-mcteteu.shop/secret_key/73de0f848712eb65eee7358942b8b4b5.m3u8
+#EXTINF:-1 tvg-iid="Telecine Pipoca" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PIPOCA.png" group-title="Filmes", Telecine Pipoca
+https://01-mcteteu.shop/secret_key/f17ee0ea36bb5311628993884558410e.m3u8
+#EXTINF:-1 tvg-iid="Telecine Premium" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_PREMIUM.png" group-title="Filmes", Telecine Premium
+https://01-mcteteu.shop/secret_key/807254b03ae6c235657f33e7b4bf2331.m3u8
+#EXTINF:-1 tvg-iid="Telecine Touch" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TELECINE_TOUCH.png" group-title="Filmes", Telecine Touch
+https://01-mcteteu.shop/secret_key/867e229e5bbc04291f819babbfedb05b.m3u8
 
 ######### Infantil #########
-#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Adult_Swim_HD.png" group-title="Infantil", Adult Swim
-https://01-mcteteu.shop/secret_key/26ad3b57389313d75b85b86893e4ad47.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOON_HD.png" group-title="Infantil", Cartoon Network
-https://01-mcteteu.shop/secret_key/ecf9e1e49a9bcd764652aa36f3c83026.m3u8
-#EXTINF:-1 tvg-id="Cartoonito" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOONITO.png" group-title="Infantil", Cartoonito
-https://01-mcteteu.shop/secret_key/6cdd174f405178f9b104b1dfe1274805.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_KIDS_HD.png" group-title="Infantil", Discovery Kids
-https://01-mcteteu.shop/secret_key/27d75c85d4ac5b0eed614c865d4a1803.m3u8
-#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOOB_HD.png" group-title="Infantil", Gloob
-https://01-mcteteu.shop/secret_key/efa190109a9921d94a7170a1524a8c01.m3u8
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICK_JR.png" group-title="Infantil", Nick Jr.
-https://01-mcteteu.shop/secret_key/8f7205e6fba97004b75e08ab080aad56.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICKELODEON_HD.png" group-title="Infantil", Nickelodeon
-https://01-mcteteu.shop/secret_key/cfde6c72dadc08a7750255a3e19fc4ff.m3u8
+#EXTINF:-1 tvg-iid="Adult Swim" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/Adult_Swim_HD.png" group-title="Infantil", Adult Swim
+https://01-mcteteu.shop/secret_key/080aedc7223989dad201419c72f1e2e6.m3u8
+#EXTINF:-1 tvg-iid="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOON_HD.png" group-title="Infantil", Cartoon Network
+https://01-mcteteu.shop/secret_key/df2d31a92a7e3921a727533236fa2d84.m3u8
+#EXTINF:-1 tvg-iid="Cartoonito" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CARTOONITO.png" group-title="Infantil", Cartoonito
+https://01-mcteteu.shop/secret_key/acfa9a53acbd206aa253c6cf4307aaab.m3u8
+#EXTINF:-1 tvg-iid="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/DISCOVERY_KIDS_HD.png" group-title="Infantil", Discovery Kids
+https://01-mcteteu.shop/secret_key/d98ee940a811916d2e2216f6ec48e856.m3u8
+#EXTINF:-1 tvg-iid="Gloob" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOOB_HD.png" group-title="Infantil", Gloob
+https://01-mcteteu.shop/secret_key/1a2df2490e188693a30dae468b2a5a20.m3u8
+#EXTINF:-1 tvg-iid="Nick Jr." tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICK_JR.png" group-title="Infantil", Nick Jr.
+https://01-mcteteu.shop/secret_key/53c4a86caec5a2d520d9e8158034a2d4.m3u8
+#EXTINF:-1 tvg-iid="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/NICKELODEON_HD.png" group-title="Infantil", Nickelodeon
+https://01-mcteteu.shop/secret_key/b9746f7086667c3482ef35ed862f6142.m3u8
 
 ######### Notícias #########
-#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_NEWS.png" group-title="Notícias", BandNews
-https://01-mcteteu.shop/secret_key/db302953b5bfd06b2d3e79efcbe58571.m3u8
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CNN_BRASIL.png" group-title="Notícias", CNN Brasil
-https://01-mcteteu.shop/secret_key/91612eddc1e1cbebb8954b64c51a734a.m3u8
-#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_NEWS.png" group-title="Notícias", GloboNews
-https://01-mcteteu.shop/secret_key/9a711cea891ec3525d3e4af529dd137a.m3u8
+#EXTINF:-1 tvg-iid="BandNews" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BAND_NEWS.png" group-title="Notícias", BandNews
+https://01-mcteteu.shop/secret_key/30b7501761fcac7d6af7fda4924fb90f.m3u8
+#EXTINF:-1 tvg-iid="CNN Brasil" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/CNN_BRASIL.png" group-title="Notícias", CNN Brasil
+https://01-mcteteu.shop/secret_key/6b6d124798c455e27e8c2212d4be85af.m3u8
+#EXTINF:-1 tvg-iid="GloboNews" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_NEWS.png" group-title="Notícias", GloboNews
+https://01-mcteteu.shop/secret_key/cd949e62dbf1235a1200419ef61cdfed.m3u8
 
 ######### Séries #########
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/AXN.png" group-title="Séries", AXN
-https://01-mcteteu.shop/secret_key/69031c189b4ab0f1c6bbfe412637cc74.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMEDY_CENTRAL.png" group-title="Séries", Comedy Central
-https://01-mcteteu.shop/secret_key/1eee467a8bd6f18bc8b53f7d6b1ead66.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_HD.png" group-title="Séries", TNT
-https://01-mcteteu.shop/secret_key/0d4d096f2661406f332ecbe36a30f2f8.m3u8
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_NOVELAS.png" group-title="Séries", TNT Novelas
-https://01-mcteteu.shop/secret_key/0390b61b7dbec996f006229202c0603d.m3u8
-#EXTINF:-1 tvg-id="TNT Series" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_SERIES_HD.png" group-title="Séries", TNT Series
-https://01-mcteteu.shop/secret_key/3662e9bf5ece30649c65db92140745a5.m3u8
-#EXTINF:-1 tvg-id="Universal TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/UNIVERSAL_TV_HD.png" group-title="Séries", Universal TV
-https://01-mcteteu.shop/secret_key/e7fcfbec8c5f8eb7baca1859d6a3ee68.m3u8
-#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/WARNER_CHANNEL.png" group-title="Séries", Warner Channel
-https://01-mcteteu.shop/secret_key/b2da8cac8de57c12c243b23c6748ec19.m3u8
+#EXTINF:-1 tvg-iid="AXN" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/AXN.png" group-title="Séries", AXN
+https://01-mcteteu.shop/secret_key/e2a59df52a21a9ec7e895e0507b55e80.m3u8
+#EXTINF:-1 tvg-iid="Comedy Central" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/COMEDY_CENTRAL.png" group-title="Séries", Comedy Central
+https://01-mcteteu.shop/secret_key/1d6eb5c965469e17b22d7117347e873c.m3u8
+#EXTINF:-1 tvg-iid="TNT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_HD.png" group-title="Séries", TNT
+https://01-mcteteu.shop/secret_key/b59af3db5d6856de71245fde1e057d6b.m3u8
+#EXTINF:-1 tvg-iid="TNT Novelas" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_NOVELAS.png" group-title="Séries", TNT Novelas
+https://01-mcteteu.shop/secret_key/a66f5faabf7a0d3ae26f9fbbd5186f7b.m3u8
+#EXTINF:-1 tvg-iid="TNT Series" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TNT_SERIES_HD.png" group-title="Séries", TNT Series
+https://01-mcteteu.shop/secret_key/f52bd408e7bc28a2e239a0816c5e9f3e.m3u8
+#EXTINF:-1 tvg-iid="Universal TV" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/UNIVERSAL_TV_HD.png" group-title="Séries", Universal TV
+https://01-mcteteu.shop/secret_key/c81c1cf1f070d1ec7aa6f9cd375f9f3a.m3u8
+#EXTINF:-1 tvg-iid="Warner Channel" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/WARNER_CHANNEL.png" group-title="Séries", Warner Channel
+https://01-mcteteu.shop/secret_key/c060f0dbf8d5894f3c2bfe9c1a0e813a.m3u8
 
 ######### Variedades #########
-#EXTINF:-1 tvg-id="BIS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BIS_HD.png" group-title="Variedades", BIS
-https://01-mcteteu.shop/secret_key/960a6063554c78759cb026a852b4bbaa.m3u8
-#EXTINF:-1 tvg-id="GNT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GNT_HD.png" group-title="Variedades", GNT
-https://01-mcteteu.shop/secret_key/7d79df9bbc41948a0df826895b3004a8.m3u8
-#EXTINF:-1 tvg-id="Globo S O Paulo" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GLOBO_S_O_PAULO.png" group-title="Variedades", Globo S O Paulo
-https://01-mcteteu.shop/secret_key/32e4653666e7a89bfae85e3cce930bbe.m3u8
-#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MULTISHOW_HD.png" group-title="Variedades", Multishow
-https://01-mcteteu.shop/secret_key/240a31004a5a2c7d14870e4ce837ac95.m3u8
-#EXTINF:-1 tvg-id="OFF" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/OFF_HD.png" group-title="Variedades", OFF
-https://01-mcteteu.shop/secret_key/850c1847639604135397600044875d30.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TLC_HD.png" group-title="Variedades", TLC
-https://01-mcteteu.shop/secret_key/b9c391a52f262d5a71c6f8a42d3f4a88.m3u8
+#EXTINF:-1 tvg-iid="BIS" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/BIS_HD.png" group-title="Variedades", BIS
+https://01-mcteteu.shop/secret_key/6e5e0a63827390c14f212634a6afffab.m3u8
+#EXTINF:-1 tvg-iid="GNT" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/GNT_HD.png" group-title="Variedades", GNT
+https://01-mcteteu.shop/secret_key/2e89bf1c499394f4efb6da50cab5ff34.m3u8
+#EXTINF:-1 tvg-iid="Multishow" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/MULTISHOW_HD.png" group-title="Variedades", Multishow
+https://01-mcteteu.shop/secret_key/295d45aefb63f82f0656be129e4642f8.m3u8
+#EXTINF:-1 tvg-iid="OFF" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/OFF_HD.png" group-title="Variedades", OFF
+https://01-mcteteu.shop/secret_key/85471b4b162d0cc5a532b40f558896c0.m3u8
+#EXTINF:-1 tvg-iid="TLC" tvg-logo="https://raw.githubusercontent.com/vxncius-dev/PlayCine/main/assets/TLC_HD.png" group-title="Variedades", TLC
+https://01-mcteteu.shop/secret_key/019c297fbd664063dae3e8afad235753.m3u8
 
 ######### Animes #########
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Hunter x Hunter
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Naruto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Naruto Shippuden
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/One_Piece_Logo.png?20240831194247" group-title="Brasil: anime e tokusatsu",One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Super Onze
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 ######### PlutoTV #########
 #EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park Coleção Cartman
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park Coleção Kenny
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park Coleção Kyle
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Brasil: maratona de ficção",South Park Coleção Stan
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5fa1612a669ba0000702017b" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="Brasil: cinema",Cine Clássicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f12101f0b12f00007844c7c" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="Brasil: cinema",Cine Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Brasil: cinema",Cine Comédia Romântica
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="6479ff764f5ba5000878dfe2" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Brasil: cinema",Cine Crime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Brasil: cinema",Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="Brasil: cinema",Cine Família | Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="Brasil: cinema",Cine Inspiração
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="Brasil: cinema",Cine Romance
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Brasil: cinema",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Brasil: cinema",Cine Terror | Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Assombrações
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Comedy Central
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",FailArmy
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Investigação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="5f1212ad1728050007a523b8" tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Retrô
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="6474ab1da51cb80008bfb5f4" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Séries Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab1da51cb80008bfb5f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="6474ab5cdc7a760008745008" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Séries Criminais
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474ab5cdc7a760008745008/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="655e5bc94261ca000810cb17" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Séries de Comédia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5bc94261ca000810cb17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="65f060d84e01740008d7421f" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Séries Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f060d84e01740008d7421f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:-1 tvg-id="63d2ba2f60bc8f0008981a0e" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Brasil: humor; novelas e séries",Séries Sci-Fi
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f60bc8f0008981a0e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
